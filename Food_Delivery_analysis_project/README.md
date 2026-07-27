@@ -204,24 +204,7 @@ Food_Delivery_analysis_project/
 │
 ├── README.md
 ├── food_delivery_project.ipynb
-└── train.csv
 ```
-
----
-
-## 💡 Skills Demonstrated
-
-- Data Cleaning
-- Data Wrangling
-- Exploratory Data Analysis
-- Feature Engineering
-- Data Visualization
-- Business Analysis
-- Machine Learning
-- Regression
-- Python Programming
-
----
 
 ## 🚀 Future Improvements
 
