@@ -160,7 +160,6 @@ Customer_Churn_Analysis/
 │
 ├── README.md
 ├── Customer_Churn_Project.ipynb
-└── requirements.txt
 ```
 
 ## 👨‍💻 Author
